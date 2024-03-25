@@ -18,6 +18,7 @@ import { loadBibTeXCitationRenderers } from './citations.js';
 import { parseMyst } from './myst.js';
 import { processNotebook } from './notebook.js';
 import { selectors } from '../store/index.js';
+import { includeDirectiveTransform } from 'myst-transforms';
 
 function checkCache(cache: ISessionWithCache, content: string, file: string) {
   const sha256 = createHash('sha256').update(content).digest('hex');
