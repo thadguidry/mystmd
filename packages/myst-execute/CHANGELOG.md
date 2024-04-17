@@ -1,5 +1,11 @@
 # myst-execute
 
+## 0.0.6
+
+### Patch Changes
+
+- 6945761: Update dependencies
+
 ## 0.0.5
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
   "name": "myst-ext-tabs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "sideEffects": false,
   "license": "MIT",
   "description": "MyST extension for tab-set and tab-item directive",

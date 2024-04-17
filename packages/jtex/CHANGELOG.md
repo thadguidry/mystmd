@@ -1,5 +1,13 @@
 # jtex
 
+## 1.0.17
+
+### Patch Changes
+
+- 6945761: Update dependencies
+- Updated dependencies [6945761]
+  - myst-templates@1.0.18
+
 ## 1.0.16
 
 ### Patch Changes

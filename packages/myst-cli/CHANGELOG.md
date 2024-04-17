@@ -1,5 +1,24 @@
 # myst-cli
 
+## 1.1.55
+
+### Patch Changes
+
+- Updated dependencies [6945761]
+  - myst-ext-exercise@1.0.6
+  - myst-ext-reactive@1.0.6
+  - myst-ext-proof@1.0.9
+  - myst-templates@1.0.18
+  - myst-ext-card@1.0.6
+  - myst-ext-grid@1.0.6
+  - myst-ext-tabs@1.0.6
+  - myst-to-typst@0.0.15
+  - myst-execute@0.0.6
+  - myst-to-docx@1.0.10
+  - myst-to-jats@1.0.26
+  - myst-to-md@1.0.11
+  - jtex@1.0.17
+
 ## 1.1.54
 
 ### Patch Changes

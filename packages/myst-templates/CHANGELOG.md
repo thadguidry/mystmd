@@ -1,5 +1,11 @@
 # myst-templates
 
+## 1.0.18
+
+### Patch Changes
+
+- 6945761: Update dependencies
+
 ## 1.0.17
 
 ### Patch Changes

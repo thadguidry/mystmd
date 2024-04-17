@@ -1,5 +1,11 @@
 # myst-to-jats
 
+## 1.0.26
+
+### Patch Changes
+
+- 6945761: Update dependencies
+
 ## 1.0.25
 
 ### Patch Changes

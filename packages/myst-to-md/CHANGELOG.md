@@ -1,5 +1,11 @@
 # myst-to-md
 
+## 1.0.11
+
+### Patch Changes
+
+- 6945761: Update dependencies
+
 ## 1.0.10
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # myst-ext-tabs
 
+## 1.0.6
+
+### Patch Changes
+
+- 6945761: Update dependencies
+
 ## 1.0.5
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # myst-to-typst
 
+## 0.0.15
+
+### Patch Changes
+
+- 6945761: Update dependencies
+
 ## 0.0.14
 
 ### Patch Changes
